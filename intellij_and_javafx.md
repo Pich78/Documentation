@@ -45,7 +45,7 @@ For further details go [there](https://openjfx.io/openjfx-docs/#IDE-Intellij):
 7. Once the project is opened, click in the menu File -> Project Structure
 8. In the Project section, verify the selected SDK is the one downloaded (12.0.2)
 9. In the Libraries section, click on the `+`, navigate to the unzipped folder of JavaFX (javafx-sdk-12.0.2) select the lib subfolder and click open, apply, ok
-10 Click in the menu Run -> Edit Configurations and in the line " VM Options" copy and paste this line: 
+10. Click in the menu Run -> Edit Configurations and in the line " VM Options" copy and paste this line: 
 
 `--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml`
 
