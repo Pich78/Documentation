@@ -9,4 +9,5 @@ Collection of guides and documents
 - [OnDrag and OnMouseDrag](https://stackoverflow.com/questions/40074650/ondragover-doesnt-happen-in-javafx)
 - [Drag and drop design useful links](https://github.com/Pich78/Documentation/blob/master/Drag%20and%20drop%20design%20useful%20links.md#drag-and-drop-design-useful-links)
 - [Useful JavaFX examples from Jewelsea](https://gist.github.com/jewelsea)
+- [MVC Patterns](http://griffon-framework.org/tutorials/5_mvc_patterns.html)
 
