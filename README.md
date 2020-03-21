@@ -12,3 +12,5 @@ Collection of guides and documents
 - [MVC Patterns](http://griffon-framework.org/tutorials/5_mvc_patterns.html)
 - [Semantic Networks](https://github.com/Pich78/Documentation/blob/master/Semantic%20Network%20links.md)
 
+## Best Practices
+- [Number of parameters in method signature](https://github.com/Pich78/Documentation/blob/master/method-parameters.md)
