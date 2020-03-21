@@ -16,5 +16,8 @@ Collection of guides and documents
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [RxJavaFX](https://legacy.gitbook.com/book/thomasnield/rxjavafx-guide/details)
 
+## JavaFX Resourcers
+- [AwesomeJavaFX](https://libraries.io/github/jchildress/AwesomeJavaFX)
+
 ## Best Practices
 - [Number of parameters in method signature](https://github.com/Pich78/Documentation/blob/master/method-parameters.md)
