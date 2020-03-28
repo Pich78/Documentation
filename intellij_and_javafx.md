@@ -1,6 +1,6 @@
 # Setup of IntelliJ Idea with JavaFX 
 
-`17 March 2020`
+`28 March 2020`
 
 This setup is the simplest possible: the JavaFX library is in a folder in the file system.
 
@@ -10,7 +10,7 @@ For further details go [there](https://openjfx.io/openjfx-docs/#IDE-Intellij):
 
 
 
-#### 1. IntelliJ Idea Community Edition (Version 2019.3.3)
+#### 1. IntelliJ Idea Community Edition (Version 2019.3.4)
 
 * Download [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/download/) 
 
@@ -44,7 +44,7 @@ For further details go [there](https://openjfx.io/openjfx-docs/#IDE-Intellij):
 5. Put a name to the project and select the directory where the project will be deployed
 6. Click Finish
 7. Once the project is opened, click in the menu File -> Project Structure
-8. In the Project section, verify the selected SDK is the one downloaded (12)
+8. In the Project section, verify the selected SDK is the one downloaded (14)
 9. In the Libraries section, click on the `+`, navigate to the unzipped folder of JavaFX (javafx-sdk-14) select the lib subfolder and click open, apply, ok
 10. Click in the menu Run -> Edit Configurations and in the line " VM Options" copy and paste this line: 
 
