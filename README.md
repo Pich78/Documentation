@@ -21,3 +21,6 @@ Collection of guides and documents
 
 ## Best Practices
 - [Number of parameters in method signature](https://github.com/Pich78/Documentation/blob/master/method-parameters.md)
+
+## Markdown Triks
+- [Collapsible Markdown](https://github.com/Pich78/Documentation/blob/master/collapsible-example.md)
